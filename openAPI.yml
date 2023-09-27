@@ -1,0 +1,19 @@
+---
+openapi: 3.0.0
+
+info:
+    title: MarketPlace UC1 app
+    description: MarketPlace app for the SimPARTIX simulation software
+    version: 1.0.0
+    x-api-version: 0.5.0
+    x-products:
+        - name: Monthly
+          productId:
+servers:
+    - url: https://uc1.materials-data.space
+
+paths:
+    /frontend:
+        get:
+            summary: Check if app is alive
+            operationId: frontend
