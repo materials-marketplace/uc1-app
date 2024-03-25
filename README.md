@@ -1,6 +1,6 @@
 # MarketPlace UC1 app
 
-Contact: [Pablo de Andres](mailto:pablo.de.andres@iwm.fraunhofer.de)
+Contact: [Yoav Nahshon] (mailto:yoav.nahshon@iwm.fraunhofer.de), [Pablo de Andres](mailto:pablo.de.andres@iwm.fraunhofer.de)
 
 Simple demonstrator developed as part of Use Case 1 in the MarketPlace project.
 It connects the [SimPARTIX MarketPlace app](https://github.com/materials-marketplace/simpartix-app) with a [MICRESS](https://micress.rwth-aachen.de/) MarketPlace app.
